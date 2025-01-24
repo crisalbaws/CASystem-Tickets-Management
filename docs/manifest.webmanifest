@@ -1,11 +1,11 @@
 {
-    "name": "FTM1970 Ticket Management",
-    "short_name": "FTM1970",
-    "start_url": "/",
+    "name": "CASystems-Ticket Management",
+    "short_name": "CAS Ticket Management",
     "display": "standalone",
     "background_color": "#ffffff",
     "lang": "en",
-    "scope": "/",
+    "scope": "/CASystem-Tickets-Management/",
+    "start_url": "/CASystem-Tickets-Management/",
     "description": "Modern ticket management system",
     "theme_color": "#ffffff",
     "icons": [
