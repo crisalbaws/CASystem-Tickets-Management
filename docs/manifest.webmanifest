@@ -1,6 +1,6 @@
 {
-    "name": "CASystem Ticket Management",
-    "short_name": "CAS Tickets Management",
+    "name": "CASystem-Ticket Management",
+    "short_name": "Ticket Management",
     "start_url": "/CASystem-Tickets-Management/",
     "display": "standalone",
     "background_color": "#ffffff",
